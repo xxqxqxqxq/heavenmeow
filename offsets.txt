@@ -614,4 +614,10 @@ namespace Offsets {
          inline constexpr uintptr_t worldStepsPerSec = 0x668;
     }
 
+    namespace FFlags {
+          NextGenReplicatorEnabledWrite4 = 0x75e25f0;               
+
+}
+
+
 }
